@@ -1,0 +1,28 @@
+name: maps
+favicon: null
+layout_spectrum: 0.11971642007119954
+typography_spectrum: 0.29387017036788166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4913334387820214
+  lightness: 0.8149749101139605
+  saturation: 0.07895187987014651
+  rhythmicContrast: 0.6742397660855204
+purpose: []
