@@ -1,7 +1,7 @@
 name: maps
 favicon: null
-layout_spectrum: 0.11971642007119954
-typography_spectrum: 0.29387017036788166
+layout_spectrum: 0
+typography_spectrum: 0.85129
 cta:
   domain: null
   bucket: null
